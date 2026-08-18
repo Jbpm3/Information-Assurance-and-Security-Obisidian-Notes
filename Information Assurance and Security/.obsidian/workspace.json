@@ -199,11 +199,13 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3e0d47187cbbbc6",
+  "active": "eeb0590a4f19439a",
   "lastOpenFiles": [
+    "Module 1/Attachments/MetaSploit.png",
     "Module 1/1.5 Application Attacks.md",
     "Untitled.base",
     "Term Definitions/Buffer.md",
