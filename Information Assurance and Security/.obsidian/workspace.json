@@ -11,10 +11,14 @@
             "id": "e3e0d47187cbbbc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Module 1/1.5 Application Attacks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.5 Application Attacks"
             }
           }
         ]
@@ -194,7 +198,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e3e0d47187cbbbc6",
