@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "7e783f92d9c76c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "aecca7c5f2c91cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e0d47187cbbbc6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45b39f0d98ff47b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d95538bd1bba7684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb0590a4f19439a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b07cb260155fbb12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e45d17ac6e861217",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4420377fa800e490",
+    "type": "split",
+    "children": [
+      {
+        "id": "0664abc9e16ec7c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7fbbc921122f1e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 1/1.5 Application Attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9966419de617443b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fdb2a730f21236f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 1/1.1 Common Threats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Common Threats"
+            }
+          },
+          {
+            "id": "89b5159353aca299",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8da071e9de5b319d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 1/1.5 Application Attacks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0709f1e40f2e5144",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e3e0d47187cbbbc6",
+  "lastOpenFiles": [
+    "Module 1/1.5 Application Attacks.md",
+    "Untitled.base",
+    "Term Definitions/Buffer.md",
+    "Module 1/Attachments/XSS.png",
+    "Module 1/1.4 Wireless and Mobile Device Attacks.md",
+    "Term Definitions/WPA.md",
+    "Term Definitions/WEP.md",
+    "Module 1/Attachments/Bluesnarfing.png",
+    "Module 1/Attachments/Bluejacking.png",
+    "Term Definitions/Bluetooth.md",
+    "Module 1/Attachments/rogue-3.png",
+    "Module 1/Attachments/rogue-2.png",
+    "Module 1/Attachments/rogue-1.png",
+    "Term Definitions/Grayware.md",
+    "Module 1/1.3 Cyber Attacks.md",
+    "Module 1/Attachments/Keyboard Logging.png",
+    "Module 1/Attachments/zero-day.png",
+    "Module 1/Attachments/man-in-the-mobile.png",
+    "Module 1/Attachments/Man-in-the-middle.png",
+    "Term Definitions/URL.md",
+    "Term Definitions/DNS.md",
+    "Term Definitions/Layer 2.md",
+    "Term Definitions/ARP.md",
+    "Term Definitions/MAC Address.md",
+    "Term Definitions/Packets.md",
+    "Module 1/1.2 Deception.md",
+    "Module 1/1.1 Common Threats.md",
+    "Untitled.md",
+    "Term Definitions",
+    "create a link.md",
+    "Welcome.md",
+    "Module 1/Links/Internal threats.md",
+    "Module 1/Attachments",
+    "Module 1"
+  ]
+}
