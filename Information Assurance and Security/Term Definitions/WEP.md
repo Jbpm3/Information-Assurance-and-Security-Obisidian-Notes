@@ -1,0 +1,1 @@
+*Wired equivalent privacy (WEP)* was developed to provide data transmitted over a wireless local area network (WLAN) with a level of protection comparable to what is usually expected of a traditional wired network. It added security to wireless networks by encrypting the data.

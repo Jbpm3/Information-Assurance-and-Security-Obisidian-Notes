@@ -1,0 +1,1 @@
+collection of data that flows between a source and a receiver computer or application over a network, such as the internet.

@@ -1,0 +1,1 @@
+*Domain Name System (DNS)* is used by DNS servers to translate a domain name into a numerical IP address

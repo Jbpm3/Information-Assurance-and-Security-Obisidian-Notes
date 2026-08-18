@@ -1,0 +1,1 @@
+a short-range, low-power protocol that transmits data in a personal area network (PAN) and uses pairing to establish a relationship between devices such as mobiles, laptops and printers.

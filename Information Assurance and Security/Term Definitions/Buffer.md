@@ -1,0 +1,1 @@
+are memory areas allocated to an application
