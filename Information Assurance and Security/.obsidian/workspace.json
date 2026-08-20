@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/1.3 Cyber Attacks.md",
+                "file": "Tasks/Task 1/Task 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Cyber Attacks"
+              "title": "Task 1"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malicious packets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,8 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b07cb260155fbb12",
+  "active": "61441761b2ed0fe2",
   "lastOpenFiles": [
+    "Module 1/Pasted image 20260820204938.png",
+    "Tasks/Task 1/Task 1 - Back.png",
+    "Tasks/Task 1",
+    "Tasks/Task 1/Task 1 - Front.png",
+    "Module 1/1.3 Cyber Attacks.md",
+    "Tasks/Task 1/Task 1.md",
+    "Tasks",
     "Module 1/1.1 Common Threats.md",
     "Module 1/1.5 Application Attacks.md",
     "Module 1/1.6 Cybersecurity Threats, Vulnerabilities, and Attacks Summary.md",
@@ -239,10 +245,7 @@
     "Term Definitions/Bluetooth.md",
     "Module 1/Attachments/rogue-3.png",
     "Module 1/Attachments/rogue-2.png",
-    "Module 1/Attachments/rogue-1.png",
     "Term Definitions/Grayware.md",
-    "Module 1/1.3 Cyber Attacks.md",
-    "Module 1/Attachments/Keyboard Logging.png",
     "Term Definitions/URL.md",
     "Term Definitions/DNS.md",
     "Term Definitions/Layer 2.md",
