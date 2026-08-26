@@ -18,13 +18,23 @@
 	- 10.16.48.43 smb.netexperts.ph
 	- 10.16.48.44 pc3.netexperts.ph
 - for config.ini:
-	- uncomment [GlobalSection] and comment the last one
-	- [AllowedAddressesSection] IP1=10.16.48.
+	- uncomment "[GlobalSection]" and comment the last one
+	- "[AllowedAddressesSection]" IP1=*
 
 - make sure to go to services and stop and run acrylic
+- check firewall settings
+- create new rule; port 55
 
 
 
 
 
 ![[Task 1 - Back.png]]
+
+4. 
+- on xampp, open htdocs and create/edit *index.html*
+- start apache
+- on FileZilla, create the FTP account
+- set its shared/home directory to htdocs
+- create a new user
+- share the folder with read/write permissions

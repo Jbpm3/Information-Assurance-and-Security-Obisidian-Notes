@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aecca7c5f2c91cfe",
+        "id": "3f7decdb9df5111c",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e0d47187cbbbc6",
+            "id": "53e027d3729c93c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/1.1 Common Threats.md",
+                "file": "Module 2/2.2 Who is Attacking Our Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Common Threats"
-            }
-          },
-          {
-            "id": "61441761b2ed0fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Task 1/Task 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Task 1"
+              "title": "2.2 Who is Attacking Our Network"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,14 +203,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61441761b2ed0fe2",
+  "active": "53e027d3729c93c8",
   "lastOpenFiles": [
+    "Module 2/2.1 Current State of Affairs.md",
+    "Module 2/2.2 Who is Attacking Our Network.md",
     "Module 1/Pasted image 20260820204938.png",
+    "Module 2",
+    "Tasks/Task 1/Task 1.md",
+    "Untitled.base",
     "Tasks/Task 1/Task 1 - Back.png",
     "Tasks/Task 1",
     "Tasks/Task 1/Task 1 - Front.png",
     "Module 1/1.3 Cyber Attacks.md",
-    "Tasks/Task 1/Task 1.md",
     "Tasks",
     "Module 1/1.1 Common Threats.md",
     "Module 1/1.5 Application Attacks.md",
@@ -234,7 +223,6 @@
     "Module 1/Attachments/Spear Phishing.png",
     "Module 1/Attachments/Phising.png",
     "Module 1/Attachments/MetaSploit.png",
-    "Untitled.base",
     "Term Definitions/Buffer.md",
     "Module 1/Attachments/XSS.png",
     "Module 1/1.4 Wireless and Mobile Device Attacks.md",
@@ -244,7 +232,6 @@
     "Module 1/Attachments/Bluejacking.png",
     "Term Definitions/Bluetooth.md",
     "Module 1/Attachments/rogue-3.png",
-    "Module 1/Attachments/rogue-2.png",
     "Term Definitions/Grayware.md",
     "Term Definitions/URL.md",
     "Term Definitions/DNS.md",
