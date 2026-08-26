@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 2/2.2 Who is Attacking Our Network.md",
+                "file": "Module 3/3.1 IP PDU Details.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Who is Attacking Our Network"
+              "title": "3.1 IP PDU Details"
             }
           }
         ]
@@ -205,9 +205,13 @@
   },
   "active": "53e027d3729c93c8",
   "lastOpenFiles": [
-    "Module 2/2.1 Current State of Affairs.md",
-    "Module 2/2.2 Who is Attacking Our Network.md",
     "Module 1/Pasted image 20260820204938.png",
+    "Module 3/Attachments",
+    "Module 3/3.1 IP PDU Details.md",
+    "Module 3/Attachments/ipv4.png",
+    "Module 2/2.2 Who is Attacking Our Network.md",
+    "Module 3",
+    "Module 2/2.1 Current State of Affairs.md",
     "Module 2",
     "Tasks/Task 1/Task 1.md",
     "Untitled.base",
@@ -231,7 +235,6 @@
     "Module 1/Attachments/Bluesnarfing.png",
     "Module 1/Attachments/Bluejacking.png",
     "Term Definitions/Bluetooth.md",
-    "Module 1/Attachments/rogue-3.png",
     "Term Definitions/Grayware.md",
     "Term Definitions/URL.md",
     "Term Definitions/DNS.md",
@@ -244,7 +247,6 @@
     "Term Definitions",
     "create a link.md",
     "Welcome.md",
-    "Module 1/Links/Internal threats.md",
     "Module 1/Attachments",
     "Module 1"
   ]
