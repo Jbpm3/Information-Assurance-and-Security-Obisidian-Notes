@@ -203,8 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53e027d3729c93c8",
+  "active": "eeb0590a4f19439a",
   "lastOpenFiles": [
+    "Module 3/Attachments/Switch updates CAM table with Spoofed Address.png",
+    "Module 3/Attachments/threat actor spoofs a server's MAC address.png",
+    "Module 3/Attachments/amplification and reflection.png",
+    "Module 3/Attachments/ICMP Flood.png",
     "Module 3/3.1 IP PDU Details.md",
     "Module 3/3.2 IP Vulnerabilities.md",
     "Module 3/Attachments/ipv6.png",
@@ -228,13 +232,10 @@
     "Term Definitions/Machine Learning.md",
     "Module 1/Attachments/Spear Phishing.png",
     "Module 1/Attachments/Phising.png",
-    "Module 1/Attachments/MetaSploit.png",
     "Term Definitions/Buffer.md",
-    "Module 1/Attachments/XSS.png",
     "Module 1/1.4 Wireless and Mobile Device Attacks.md",
     "Term Definitions/WPA.md",
     "Term Definitions/WEP.md",
-    "Module 1/Attachments/Bluesnarfing.png",
     "Term Definitions/Bluetooth.md",
     "Term Definitions/Grayware.md",
     "Term Definitions/URL.md",
@@ -247,7 +248,6 @@
     "Untitled.md",
     "Term Definitions",
     "create a link.md",
-    "Welcome.md",
     "Module 1/Attachments",
     "Module 1"
   ]
