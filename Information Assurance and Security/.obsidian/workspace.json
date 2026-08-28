@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3/3.2 IP Vulnerabilities.md",
+                "file": "Module 4/4.3 Mitigating Common Network Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 IP Vulnerabilities"
+              "title": "4.3 Mitigating Common Network Attacks"
             }
           }
         ]
@@ -205,33 +205,38 @@
   },
   "active": "eeb0590a4f19439a",
   "lastOpenFiles": [
+    "Module 4/Attachments/Mitigating Worms.png",
+    "Module 4/4.2 Enterprise Services.md",
+    "Module 4/4.3 Mitigating Common Network Attacks.md",
+    "Module 4/4.1 IP Services.md",
+    "Module 4/Attachments/DHCP Attacks 5.png",
+    "Module 4/Attachments/DHCP Attacks 3.png",
+    "Module 4/Attachments/DHCP Attacks 2.png",
+    "Module 4/Attachments/DHCP Attacks 1.png",
+    "Module 4/Attachments/DHCP.png",
+    "Module 4/Attachments/Spoofed Gratuitous ARP Replies.png",
+    "Module 4/Attachments/ARP Reply.png",
+    "Module 4/Attachments/ARP Request.png",
+    "Module 4/Attachments",
+    "Module 3/3.2 IP Vulnerabilities.md",
+    "Module 4",
     "Module 3/Attachments/Switch updates CAM table with Spoofed Address.png",
     "Module 3/Attachments/threat actor spoofs a server's MAC address.png",
-    "Module 3/Attachments/amplification and reflection.png",
-    "Module 3/Attachments/ICMP Flood.png",
     "Module 3/3.1 IP PDU Details.md",
-    "Module 3/3.2 IP Vulnerabilities.md",
-    "Module 3/Attachments/ipv6.png",
-    "Module 1/Pasted image 20260820204938.png",
     "Module 3/Attachments",
-    "Module 3/Attachments/ipv4.png",
     "Module 2/2.2 Who is Attacking Our Network.md",
     "Module 3",
     "Module 2/2.1 Current State of Affairs.md",
     "Module 2",
     "Tasks/Task 1/Task 1.md",
     "Untitled.base",
-    "Tasks/Task 1/Task 1 - Back.png",
     "Tasks/Task 1",
-    "Tasks/Task 1/Task 1 - Front.png",
     "Module 1/1.3 Cyber Attacks.md",
     "Tasks",
     "Module 1/1.1 Common Threats.md",
     "Module 1/1.5 Application Attacks.md",
     "Module 1/1.6 Cybersecurity Threats, Vulnerabilities, and Attacks Summary.md",
     "Term Definitions/Machine Learning.md",
-    "Module 1/Attachments/Spear Phishing.png",
-    "Module 1/Attachments/Phising.png",
     "Term Definitions/Buffer.md",
     "Module 1/1.4 Wireless and Mobile Device Attacks.md",
     "Term Definitions/WPA.md",
@@ -244,11 +249,7 @@
     "Term Definitions/ARP.md",
     "Term Definitions/MAC Address.md",
     "Term Definitions/Packets.md",
-    "Module 1/1.2 Deception.md",
-    "Untitled.md",
     "Term Definitions",
-    "create a link.md",
-    "Module 1/Attachments",
-    "Module 1"
+    "Module 1/Attachments"
   ]
 }
