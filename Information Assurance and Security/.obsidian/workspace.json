@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 5/5.3 Secure WLANs.md",
+                "file": "Module 6/6.1 Security Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 Secure WLANs"
+              "title": "6.1 Security Devices"
             }
           }
         ]
@@ -205,21 +205,25 @@
   },
   "active": "53e027d3729c93c8",
   "lastOpenFiles": [
-    "Module 5/Authentication Enterprise.png",
+    "Module 6/Application Gateway Firewall.png",
+    "Module 6/Attachments/stateful.png",
+    "Module 6/Attachments/Stateless.png",
+    "Module 6/Attachments/Zone-Based.png",
+    "Module 6/Attachments/DMZ.png",
+    "Module 6/Attachments/private and public.png",
+    "Module 6/Attachments",
+    "Module 5/5.3 Secure WLANs.md",
+    "Module 6/6.1 Security Devices.md",
+    "Module 6",
+    "Module 5/5.1 Wireless Communications.md",
+    "Module 5/5.2 WLAN Threats.md",
+    "Untitled.md",
+    "Module 5/Attachment/Authentication Enterprise.png",
     "Module 5/Attachment/Encryption Methods.png",
     "Module 5/Attachment/WPA2 Personal.png",
     "Module 5/Attachment/Shared Key Authenitcation.png",
     "Module 5/Attachment/authentication methods.png",
-    "Module 5/Attachment/MAC Address Filtering.png",
-    "Module 5/Attachment/SSID Cloaking.png",
     "Tasks/Task 1/Task 1.md",
-    "Module 5/5.3 Secure WLANs.md",
-    "Module 5/5.2 WLAN Threats.md",
-    "Module 5/Attachment/MitM 2.png",
-    "Module 5/Attachment/MitM.png",
-    "Module 5/Attachment/DoS Attacks.png",
-    "Module 5/5.1 Wireless Communications.md",
-    "Module 5/Attachment/Active Mode.png",
     "Module 5/Attachment",
     "Module 4/4.3 Mitigating Common Network Attacks.md",
     "Module 5",
@@ -235,9 +239,7 @@
     "Module 2/2.1 Current State of Affairs.md",
     "Module 2",
     "Untitled.base",
-    "Tasks/Task 1",
     "Module 1/1.3 Cyber Attacks.md",
-    "Tasks",
     "Module 1/1.1 Common Threats.md",
     "Module 1/1.5 Application Attacks.md",
     "Module 1/1.6 Cybersecurity Threats, Vulnerabilities, and Attacks Summary.md",
@@ -248,8 +250,6 @@
     "Term Definitions/WEP.md",
     "Term Definitions/Bluetooth.md",
     "Term Definitions/Grayware.md",
-    "Term Definitions/URL.md",
-    "Term Definitions/DNS.md",
-    "Term Definitions/Layer 2.md"
+    "Term Definitions/URL.md"
   ]
 }
