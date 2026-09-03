@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 5/5.2 WLAN Threats.md",
+                "file": "Tasks/Task 1/Task 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 WLAN Threats"
+              "title": "Task 1"
             }
           }
         ]
@@ -203,11 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeb0590a4f19439a",
+  "active": "53e027d3729c93c8",
   "lastOpenFiles": [
+    "Module 5/5.3 Secure WLANs.md",
+    "Module 5/5.2 WLAN Threats.md",
+    "Module 5/Attachment/MitM 2.png",
+    "Module 5/Attachment/MitM.png",
     "Module 5/Attachment/DoS Attacks.png",
     "Module 5/5.1 Wireless Communications.md",
-    "Module 5/5.2 WLAN Threats.md",
     "Module 5/Attachment/Active Mode.png",
     "Module 5/Attachment/Passive Mode.png",
     "Module 5/Attachment/wireless client and ap association.png",
@@ -220,9 +223,6 @@
     "Module 4/4.2 Enterprise Services.md",
     "Module 4/4.1 IP Services.md",
     "Module 4/Attachments/DHCP Attacks 5.png",
-    "Module 4/Attachments/DHCP Attacks 3.png",
-    "Module 4/Attachments/DHCP Attacks 2.png",
-    "Module 4/Attachments/DHCP Attacks 1.png",
     "Module 4/Attachments",
     "Module 3/3.2 IP Vulnerabilities.md",
     "Module 4",
