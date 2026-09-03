@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Task 1/Task 1.md",
+                "file": "Module 5/5.3 Secure WLANs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 1"
+              "title": "5.3 Secure WLANs"
             }
           }
         ]
@@ -205,6 +205,14 @@
   },
   "active": "53e027d3729c93c8",
   "lastOpenFiles": [
+    "Module 5/Authentication Enterprise.png",
+    "Module 5/Attachment/Encryption Methods.png",
+    "Module 5/Attachment/WPA2 Personal.png",
+    "Module 5/Attachment/Shared Key Authenitcation.png",
+    "Module 5/Attachment/authentication methods.png",
+    "Module 5/Attachment/MAC Address Filtering.png",
+    "Module 5/Attachment/SSID Cloaking.png",
+    "Tasks/Task 1/Task 1.md",
     "Module 5/5.3 Secure WLANs.md",
     "Module 5/5.2 WLAN Threats.md",
     "Module 5/Attachment/MitM 2.png",
@@ -212,17 +220,11 @@
     "Module 5/Attachment/DoS Attacks.png",
     "Module 5/5.1 Wireless Communications.md",
     "Module 5/Attachment/Active Mode.png",
-    "Module 5/Attachment/Passive Mode.png",
-    "Module 5/Attachment/wireless client and ap association.png",
-    "Module 5/Attachment/Frame Structure.png",
     "Module 5/Attachment",
-    "Module 5/Attachment/wireless vs wired.png",
     "Module 4/4.3 Mitigating Common Network Attacks.md",
     "Module 5",
-    "Module 4/Attachments/Mitigating Worms.png",
     "Module 4/4.2 Enterprise Services.md",
     "Module 4/4.1 IP Services.md",
-    "Module 4/Attachments/DHCP Attacks 5.png",
     "Module 4/Attachments",
     "Module 3/3.2 IP Vulnerabilities.md",
     "Module 4",
@@ -232,7 +234,6 @@
     "Module 3",
     "Module 2/2.1 Current State of Affairs.md",
     "Module 2",
-    "Tasks/Task 1/Task 1.md",
     "Untitled.base",
     "Tasks/Task 1",
     "Module 1/1.3 Cyber Attacks.md",
@@ -249,7 +250,6 @@
     "Term Definitions/Grayware.md",
     "Term Definitions/URL.md",
     "Term Definitions/DNS.md",
-    "Term Definitions/Layer 2.md",
-    "Term Definitions/ARP.md"
+    "Term Definitions/Layer 2.md"
   ]
 }
