@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 10/10.1 The Three Dimensions.md",
+                "file": "Module 7/7.2 Windows Architecture and Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1 The Three Dimensions"
+              "title": "7.2 Windows Architecture and Operations"
             }
           }
         ]
@@ -205,8 +205,15 @@
   },
   "active": "53e027d3729c93c8",
   "lastOpenFiles": [
-    "Module 10/10.2 States of Data.md",
+    "Module 7/Attachments/user mode vs kernel.png",
+    "Module 7/Attachments/HAL.png",
+    "Module 7/Attachments",
+    "Module 7/7.1 Windows History.md",
+    "Module 7/7.2 Windows Architecture and Operations.md",
+    "Module 6/6.2 Security Services.md",
+    "Module 7",
     "Module 10/10.1 The Three Dimensions.md",
+    "Module 10/10.2 States of Data.md",
     "Module 10/10.3 Cybersecurity Countermeasures.md",
     "LINUX/LINUX Commands.md",
     "LINUX/Linux File, Folder, and Shortcut Management Tasks.md",
@@ -221,7 +228,6 @@
     "LINUX/Attachments/cal.png",
     "LINUX/Attachments/sort.png",
     "LINUX/Attachments/whoami.png",
-    "LINUX/Attachments/wget.png",
     "LINUX/Attachments",
     "Module 1/1.5 Application Attacks.md",
     "LINUX",
@@ -230,7 +236,6 @@
     "Module 1/1.3 Cyber Attacks.md",
     "Module 1/1.2 Deception.md",
     "Module 1/1.1 Common Threats.md",
-    "Module 6/6.2 Traffic Control with ACLs.md",
     "Module 6/6.1 Security Devices.md",
     "Untitled.md",
     "Tasks/Task 1/Task 1.md",
@@ -244,12 +249,7 @@
     "Module 5",
     "Module 4/4.2 Enterprise Services.md",
     "Module 4/4.1 IP Services.md",
-    "Module 4/Attachments",
     "Module 3/3.2 IP Vulnerabilities.md",
-    "Module 4",
-    "Module 3/3.1 IP PDU Details.md",
-    "Module 2/2.2 Who is Attacking Our Network.md",
-    "Module 2/2.1 Current State of Affairs.md",
-    "Term Definitions/Machine Learning.md"
+    "Module 3/3.1 IP PDU Details.md"
   ]
 }
