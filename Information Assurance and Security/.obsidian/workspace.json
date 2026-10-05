@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 7/7.2 Windows Architecture and Operations.md",
+                "file": "Module 11/11.1 Defense-In-Depth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2 Windows Architecture and Operations"
+              "title": "11.1 Defense-In-Depth"
             }
           }
         ]
@@ -205,11 +205,24 @@
   },
   "active": "53e027d3729c93c8",
   "lastOpenFiles": [
+    "Module 14/14.2 Wildcard Masking.md",
+    "Module 11/11.1 Defense-In-Depth.md",
+    "Module 11",
+    "Module 14/Wildcard Mask to Match an IPv4 Address Range.png",
+    "Module 14/Attachments/Wildcard Mask to Match an IPv4 Subnet.png",
+    "Module 14/Attachments/Wildcard to match a host.png",
+    "Module 14/Attachments/Table List for Wildcard.png",
+    "Module 14/14.1 Introduction to Access Control Lists.md",
+    "Module 14/Attachments/ACL features.png",
+    "Module 14/Attachments",
+    "Module 7/7.3 Windows Configuration and Monitoring.md",
+    "Module 14",
+    "Module 7/7.2 Windows Architecture and Operations.md",
+    "Module 7/Attachments/Windows Boot Process.png",
     "Module 7/Attachments/user mode vs kernel.png",
     "Module 7/Attachments/HAL.png",
     "Module 7/Attachments",
     "Module 7/7.1 Windows History.md",
-    "Module 7/7.2 Windows Architecture and Operations.md",
     "Module 6/6.2 Security Services.md",
     "Module 7",
     "Module 10/10.1 The Three Dimensions.md",
@@ -219,15 +232,8 @@
     "LINUX/Linux File, Folder, and Shortcut Management Tasks.md",
     "Module 10/Attachments/Safeguards.png",
     "Module 10/Attachments/Data States.png",
-    "Module 10/Attachments/Cybersecurity Cube.png",
     "Module 10/Attachments",
     "Module 10",
-    "LINUX/Attachments/wc.png",
-    "LINUX/Attachments/df.png",
-    "LINUX/Attachments/whereis.png",
-    "LINUX/Attachments/cal.png",
-    "LINUX/Attachments/sort.png",
-    "LINUX/Attachments/whoami.png",
     "LINUX/Attachments",
     "Module 1/1.5 Application Attacks.md",
     "LINUX",
@@ -241,15 +247,9 @@
     "Tasks/Task 1/Task 1.md",
     "Module 6/Attachments",
     "Module 5/5.3 Secure WLANs.md",
-    "Module 6",
     "Module 5/5.1 Wireless Communications.md",
     "Module 5/5.2 WLAN Threats.md",
-    "Module 5/Attachment",
     "Module 4/4.3 Mitigating Common Network Attacks.md",
-    "Module 5",
-    "Module 4/4.2 Enterprise Services.md",
-    "Module 4/4.1 IP Services.md",
-    "Module 3/3.2 IP Vulnerabilities.md",
-    "Module 3/3.1 IP PDU Details.md"
+    "Module 4/4.2 Enterprise Services.md"
   ]
 }
